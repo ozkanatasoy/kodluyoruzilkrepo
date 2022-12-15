@@ -2,6 +2,8 @@
 
 **Bu repo  [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet  README dosyası, bir adet de index.html barındırıyor.**
 
+![Kodluyoruz görsel](https://kodluyoruz.org/wp-content/uploads/2022/05/kodluyoruz_yatay_slogan-300x35.png)
+
 ## Installation
 
 
@@ -25,12 +27,10 @@ code .
 
 **Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.**
 
-## License
-
-[MIT](https://choosealicense.com/license/mit/)
-
-![Kodluyoruz görsel](https://kodluyoruz.org/wp-content/uploads/2022/05/kodluyoruz_yatay_slogan-300x35.png)
-
 ## PATİKA
 
 https://app.patika.dev/ozkanatasoy
+
+## License
+
+[MIT](https://choosealicense.com/license/mit/)
