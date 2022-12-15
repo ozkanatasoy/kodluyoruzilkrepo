@@ -30,3 +30,7 @@ code .
 [MIT](https://choosealicense.com/license/mit/)
 
 ![Kodluyoruz görsel](https://kodluyoruz.org/wp-content/uploads/2022/05/kodluyoruz_yatay_slogan-300x35.png)
+
+## PATİKA
+
+https://app.patika.dev/ozkanatasoy
